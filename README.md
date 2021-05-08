@@ -1,5 +1,8 @@
 # SIEP-in-multiple-intelligent-agents-and-path-planning-research-
 
+1.Install numpy
+2.Install matplotlib 
+
 Based on the SIEP theory, I optimized the application of linear obstacles, added the judgment of the corner of the wall, and optimized the relevant parameters, so that the SIEP can work to reach the destination. 
 
 SIEP concept was inspired by Prof.ChaoYu Chen ->->->   10.1109/tits.2017.2761865
