@@ -1,4 +1,4 @@
-# SIEP-in-multiple-intelligent-agents-and-path-planning-research-
+# Path planning on multiple intelligent agents scenario 
 
 1. Install numpy
 
