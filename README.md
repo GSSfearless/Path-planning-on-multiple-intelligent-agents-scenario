@@ -4,7 +4,7 @@
 
 2. Install matplotlib 
 
-Stimuli concerned concept was inspired by Prof.ChaoYu Chen ->->->   10.1109/tits.2017.2761865
+Stimuli concerned concept was inspired by Prof.ChaoYu Chen
 
 The following is SIEP.py trajectory result, the BLUE line means short distance movement, RED line represents long distance movement, GREEN line means where robot cannot pass.
 
